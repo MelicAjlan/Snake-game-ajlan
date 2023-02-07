@@ -1,5 +1,5 @@
 .board {
-    outline: 2px solid rgb(134, 154, 189);
+    outline: 2px solid rgb(116, 149, 205);
   }
   
   .row {
@@ -14,7 +14,7 @@
   }
   
   .cell-green {
-    background-color: green;
+    background-color: blue;
   }
   
   .cell-red {
